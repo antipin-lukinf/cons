@@ -1,0 +1,15 @@
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.exe
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.deps.json
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.runtimeconfig.json
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfo.cs
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\refint\Ex001_HelloConsole.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.genruntimeconfig.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex001_HelloConsole\obj\Debug\net6.0\ref\Ex001_HelloConsole.dll
