@@ -1,0 +1,15 @@
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\bin\Debug\net6.0\Ex004_Div.exe
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\bin\Debug\net6.0\Ex004_Div.deps.json
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\bin\Debug\net6.0\Ex004_Div.runtimeconfig.json
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\bin\Debug\net6.0\Ex004_Div.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\bin\Debug\net6.0\Ex004_Div.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.csproj.AssemblyReference.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.AssemblyInfoInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.AssemblyInfo.cs
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.csproj.CoreCompileInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\refint\Ex004_Div.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\Ex004_Div.genruntimeconfig.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex004_Div\obj\Debug\net6.0\ref\Ex004_Div.dll
