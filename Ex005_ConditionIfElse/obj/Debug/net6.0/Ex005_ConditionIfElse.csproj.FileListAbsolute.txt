@@ -1,0 +1,15 @@
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.exe
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.deps.json
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.runtimeconfig.json
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\refint\Ex005_ConditionIfElse.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex005_ConditionIfElse\obj\Debug\net6.0\ref\Ex005_ConditionIfElse.dll
