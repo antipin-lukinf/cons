@@ -1,0 +1,15 @@
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\bin\Debug\net6.0\Ex007-1.exe
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\bin\Debug\net6.0\Ex007-1.deps.json
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\bin\Debug\net6.0\Ex007-1.runtimeconfig.json
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\bin\Debug\net6.0\Ex007-1.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\bin\Debug\net6.0\Ex007-1.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.csproj.AssemblyReference.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.AssemblyInfoInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.AssemblyInfo.cs
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.csproj.CoreCompileInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\refint\Ex007-1.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\Ex007-1.genruntimeconfig.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex007-1\obj\Debug\net6.0\ref\Ex007-1.dll
