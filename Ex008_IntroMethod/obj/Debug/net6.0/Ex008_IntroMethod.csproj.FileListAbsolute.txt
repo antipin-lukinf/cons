@@ -1,0 +1,15 @@
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\bin\Debug\net6.0\Ex008_IntroMethod.exe
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\bin\Debug\net6.0\Ex008_IntroMethod.deps.json
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\bin\Debug\net6.0\Ex008_IntroMethod.runtimeconfig.json
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\bin\Debug\net6.0\Ex008_IntroMethod.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\bin\Debug\net6.0\Ex008_IntroMethod.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.AssemblyInfo.cs
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\refint\Ex008_IntroMethod.dll
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.pdb
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\Ex008_IntroMethod.genruntimeconfig.cache
+C:\Users\antip\Desktop\учеба\new console1\Ex008_IntroMethod\obj\Debug\net6.0\ref\Ex008_IntroMethod.dll
