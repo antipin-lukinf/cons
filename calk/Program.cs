@@ -6,8 +6,9 @@ double b = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("Знак математической операции: "); //ввод знака мат. операции
 string znak = Convert.ToString(Console.ReadLine());
-{
 
+{
+    
     if (znak == "/")
     {
         Console.Write("Ответ: ");
@@ -35,10 +36,10 @@ string znak = Convert.ToString(Console.ReadLine());
         Console.WriteLine(a - b);
 
     }
-    else
-    {
-        Console.Write("Ответ: Введен не корректный знак операции ");
-    }
-
+        else
+        {
+            Console.Write("Ответ: Введен не корректный знак операции ");
+        }
+    
 
 }
